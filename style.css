@@ -113,6 +113,13 @@ color: #ff7700;
 {
     text-align: center
 }
-
+#AK
+{
+    height: 80px;
+    width: 80px;
+    border-style: solid;
+    border: 2px;
+    border-color: blueviolet;
+}
 
 
